@@ -64,5 +64,5 @@ To run the game locally:
 
 ## 📸 Screenshot
 
-
+<img width="1918" height="1144" alt="Image" src="https://github.com/user-attachments/assets/d23de1ae-1e88-498a-b8bb-3c1b324d036e" />
 
